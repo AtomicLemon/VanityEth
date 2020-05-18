@@ -1,6 +1,6 @@
-# Vanity Eth
+# Vanity ETH+
 
-Nodejs based tool to generate vanity ethereum addresses
+NodeJS based tool to generate vanity ethereum addresses
 
 # Features!
 
@@ -72,7 +72,7 @@ To run from source:
 git clone git@github.com:MyEtherWallet/VanityEth.git
 cd VanityEth
 npm install
-./index.js
+node index.js
 ```
 
 License
