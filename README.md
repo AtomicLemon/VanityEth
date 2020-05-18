@@ -66,6 +66,12 @@ $ docker run -it vanityeth
 $ docker run -it myetherwallet/vanityeth -i deadbeef
 ```
 
+Sample output:
+```
+atomiclemon@lemonnode:~/VanityEth$ node index.js -i B00B5
+✔ {"account":{"address":"0xb00b5728f3931ad9a8fa5ae4806da437c6d0d4b0","privKey":"8436f1bc115b1d8a41532c9be2fd17776bcb7c0b86dd89b36b302564bcefdd27"}}
+```
+
 ### Running Locally
 To run from source:
 ```sh
